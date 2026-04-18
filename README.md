@@ -1,6 +1,6 @@
 "👋 Hi there! I'm Heet Vadecha,
 a passionate mobile developer with 
-4 years of experience in building innovative and user-friendly applications. 
+4.11 years of experience in building innovative and user-friendly applications. 
 📱 I specialize in my preferred mobile platforms, such as React-native, React-js, AWS  or Android development,
 and I love bringing ideas to life through elegant and efficient code. 
 💻 With a strong foundation in java and javascript relevant programming languages or framework, 
